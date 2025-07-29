@@ -1,4 +1,4 @@
-https://www.agendamentos.com<!DOCTYPE html>
+https://www.agendament.com<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
